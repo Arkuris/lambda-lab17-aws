@@ -9,5 +9,5 @@
   - I uploaded an image to the C3 bucket but im not getting a log on the lambda function.
 
 ### a link to your images.json file.
-[Link to my AWS S3](https://s3.console.aws.amazon.com/s3/buckets/lab17-401-ark?region=us-west-2&tab=objects)
-[Link to images.JSON file](https://s3.us-west-2.amazonaws.com/lab17-401-ark/images.json)
+- [Link to my AWS S3](https://s3.console.aws.amazon.com/s3/buckets/lab17-401-ark?region=us-west-2&tab=objects)
+- [Link to images.JSON file](https://s3.us-west-2.amazonaws.com/lab17-401-ark/images.json)
